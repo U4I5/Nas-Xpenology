@@ -10,7 +10,7 @@ NAS (Network Attached Storage) est un périphérique de stockage intelligent con
 
 ![https://monserveurnas.com/wp-content/uploads/2021/03/Connectivite-nas.jpg](https://monserveurnas.com/wp-content/uploads/2021/03/Connectivite-nas.jpg)
 
-# **Qu'est-ce que l'**Xpenology
+# **Qu'est-ce que l'Xpenology**
 
 ---
 
@@ -54,7 +54,7 @@ Il est  également possible d'installer et d'exécuter nativement des applicat
     
     # ****L'Xpénology est-elle légale ?****
     
-- Xpenology n'est pas légal. Pourquoi? Xpenology est un chargeur de démarrage pour le système d'exploitation DSM de Synology. Il fonctionne sur une version Linux personnalisée développée par Synology, où la communauté a modifié le code pour qu'il fonctionne sur des appareils non Synology.
+- Xpenology est légal. Pourquoi? Xpenology est un chargeur de démarrage pour le système d'exploitation DSM de Synology. Il fonctionne sur une version Linux personnalisée développée par Synology, où la communauté a modifié le code pour qu'il fonctionne sur des appareils non Synology.
 - Xpenology est ilégal. si vous l’utiliser dans une entreprise mais pas Si vous utilisez Xpenology pour un usage personnel.
 
 # **Quelle est la configuration matérielle requise ?**
